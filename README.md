@@ -2,7 +2,7 @@
 
 React Application with Stripe
 
-
+![image](https://github.com/nepail/ecommerce/blob/master/demo/pic1.png)
 
 live demo: https://ecommerce-one-sooty.vercel.app/
 
