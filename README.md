@@ -16,4 +16,8 @@ Live demo: https://ecommerce-one-sooty.vercel.app/
 
 you can remote product add/remove/update on sanity backend site
 
-live demo: https://ecommerce-nepail.sanity.studio/
+Live demo: https://ecommerce-nepail.sanity.studio/
+
+# Canvas Confetti
+
+- Using Canvas Confetti to build firework effect on payment successful page.
